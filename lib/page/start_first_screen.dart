@@ -28,7 +28,7 @@ class _OnboardingFirstScreenState extends State<OnboardingFirstScreen> {
             //   scale: 20,
             // ),
             Image.network(
-                'https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/image 4.png',
+                'https://cdn.jsdelivr.net/gh/ayovaksin/CDN/Images/image 4.png',
                 scale: 1.3)
           ],
         ),

@@ -29,7 +29,7 @@ class _OnboardingSecondScreenState extends State<OnboardingSecondScreen> {
             //   scale: 20,
             // ),
             Image.network(
-                'https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/image 3.png',
+                'https://cdn.jsdelivr.net/gh/ayovaksin/CDN/Images/image 3.png',
                 scale: 1.3),
           ],
         ),
